@@ -1,4 +1,4 @@
-# Hi there, I'm [Paul] 👋
+# Hi there, I'm Paul 👋
 
 I'm a 14-year-old hobbyist programmer with a focus on Java. I enjoy exploring different programming languages and web development technologies in my spare time.
 
