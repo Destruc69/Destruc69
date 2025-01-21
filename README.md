@@ -1,6 +1,6 @@
 # Hi there, I'm Paul 👋
 
-I'm a 15-year-old hobbyist programmer with a focus on Java. I enjoy exploring different programming languages and web development technologies in my spare time.
+I'm a 16-year-old hobbyist programmer with a focus on Java. I enjoy exploring different programming languages and web development technologies in my spare time.
 
 ## 🌱 Skills
 
